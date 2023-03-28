@@ -1,4 +1,4 @@
-# Correlation_Driven Stopping Criterion
+# Correlation-Driven Stopping Criterion
 
 ## A novel method to stop the learning process of neural networks timely and prevent the overfitting of the resulting model
 
