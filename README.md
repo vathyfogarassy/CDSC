@@ -7,7 +7,8 @@ During the process of training machine learning models, selecting the right stop
 The article presenting the CDSC method is available at: [https://doi.org/10.1016/j.neucom.2023.127028](https://doi.org/10.1016/j.neucom.2023.127028)
 
 Cite this article:
-Miseta T., Fodor A., Vathy-Fogarassy Á. (2024). Surpassing early stopping: A novel correlation-based stopping criterion for neural networks. _Neurocomputing_, 567, 127028 
+
+  Miseta T., Fodor A., Vathy-Fogarassy Á. (2024). Surpassing early stopping: A novel correlation-based stopping criterion for neural networks. _Neurocomputing_, 567, 127028 
 
 Codes are coming soon... (in a few weeks) :)
 
