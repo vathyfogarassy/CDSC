@@ -10,5 +10,7 @@ Cite this article:
 
   Miseta T., Fodor A., Vathy-Fogarassy Á. (2024). Surpassing early stopping: A novel correlation-based stopping criterion for neural networks. _Neurocomputing_, 567, 127028 
 
-Codes are coming soon... (in a few weeks) :)
+Code is implemented as a tensorflow callback in CDSC_Callback.py, which is a modification of the original checkpoint callback in tensorflow. You can import the class "CDSC" from the file. An use it as a standard Tensorflow callback.
+
+Please refer to the expample presented in MNIST_Example.ipynb
 
